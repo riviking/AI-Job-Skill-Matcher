@@ -22,3 +22,4 @@ cv_volunteers/
 Thumbs.db
 .vscode/
 .idea/
+data/processed/feedback.csv

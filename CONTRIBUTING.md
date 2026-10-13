@@ -10,12 +10,16 @@ fix/*     <- bug fixes, created from dev
 
 | Branch | Owner |
 |---|---|
-| feature/data-cleaning | Member 1 |
-| feature/translation | Member 2 |
-| feature/skill-extraction | Member 2 |
-| feature/matching | Member 3 |
-| feature/gap-recommender | Member 3 |
-| feature/streamlit-ui | Member 4 |
+| feature/data-cleaning | Rivindu |
+| feature/translation | Hijaz |
+| feature/skill-extraction | Mathu |
+| feature/matching | Yoosuf |
+| feature/gap-recommender | Niroshan |
+| feature/streamlit-ui | Rivindu |
+
+## PR reviewers
+Rivindu -> Hijaz -> Mathu -> Yoosuf -> Niroshan -> Rivindu
+(each person's PR is reviewed by the next person in this circle)
 
 ## Daily steps
 ```bash
