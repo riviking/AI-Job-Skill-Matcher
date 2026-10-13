@@ -1,0 +1,31 @@
+skill_id,skill_name,category,aliases
+S001,Python,Technical,python3
+S002,Java,Technical,
+S003,JavaScript,Technical,js;node.js;nodejs
+S004,SQL,Technical,mysql;postgresql;sql server
+S005,Excel,Tool,ms excel;microsoft excel;spreadsheets
+S006,Power BI,Tool,powerbi
+S007,Tableau,Tool,
+S008,Machine Learning,Technical,ml;scikit-learn
+S009,Data Analysis,Technical,data analytics;analysing data
+S010,Statistics,Technical,statistical analysis
+S011,HTML,Technical,html5
+S012,CSS,Technical,css3
+S013,React,Technical,react.js;reactjs
+S014,Git,Tool,github;version control
+S015,Communication,Soft,communication skills;presentation skills
+S016,Teamwork,Soft,team work;team player
+S017,Leadership,Soft,team leadership
+S018,Problem Solving,Soft,problem-solving;analytical thinking
+S019,Time Management,Soft,
+S020,Accounting,Technical,bookkeeping;financial accounting
+S021,Marketing,Technical,digital marketing
+S022,Business Management,Technical,management
+S023,Graphic Design,Technical,photoshop;illustrator
+S024,Web Development,Technical,web design
+S025,English,Language,english language
+S026,Customer Service,Soft,customer care
+S027,AutoCAD,Tool,
+S028,Laboratory Skills,Technical,lab work
+S029,Research,Technical,research skills
+S030,Programming,Technical,coding;software development

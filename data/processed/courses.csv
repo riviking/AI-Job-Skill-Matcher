@@ -1,0 +1,8 @@
+course_id,title,provider,url,level,is_free
+C001,Python,Kaggle Learn,https://www.kaggle.com/learn/python,Beginner,True
+C002,Intro to SQL,Kaggle Learn,https://www.kaggle.com/learn/intro-to-sql,Beginner,True
+C003,Intro to Machine Learning,Kaggle Learn,https://www.kaggle.com/learn/intro-to-machine-learning,Beginner,True
+C004,Pandas,Kaggle Learn,https://www.kaggle.com/learn/pandas,Beginner,True
+C005,Data Visualization,Kaggle Learn,https://www.kaggle.com/learn/data-visualization,Beginner,True
+C006,freeCodeCamp curriculum,freeCodeCamp,https://www.freecodecamp.org/learn/,Beginner,True
+C007,Power BI training,Microsoft Learn,https://learn.microsoft.com/training/powerplatform/power-bi,Beginner,True

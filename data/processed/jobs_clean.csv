@@ -1,0 +1,13 @@
+job_id,title,description,job_type,field,location,source,collected_date
+J001,Data Analyst Intern,Analyse company data and build dashboards,Internship,IT,Colombo,sample,2026-10-07
+J002,Junior Software Engineer,Develop and test web applications,Full-time,IT,Colombo,sample,2026-10-07
+J003,Machine Learning Intern,Build and evaluate ML models,Internship,IT,Remote,sample,2026-10-07
+J004,Front-end Developer Trainee,Build user interfaces for websites,Internship,IT,Kandy,sample,2026-10-07
+J005,Business Analyst Trainee,Gather requirements and analyse business processes,Internship,Business,Colombo,sample,2026-10-07
+J006,Trainee Accountant,Prepare accounts and financial reports,Internship,Business,Colombo,sample,2026-10-07
+J007,Digital Marketing Executive,Run online marketing campaigns,Full-time,Business,Colombo,sample,2026-10-07
+J008,Graphic Designer,Create designs for social media and print,Full-time,Arts,Colombo,sample,2026-10-07
+J009,Civil Engineering Trainee,Support site work and drawings,Internship,Engineering,Galle,sample,2026-10-07
+J010,Research Assistant,Assist research projects and data collection,Part-time,Science,Peradeniya,sample,2026-10-07
+J011,Customer Support Associate,Help customers by phone and email,Full-time,Other,Colombo,sample,2026-10-07
+J012,Lab Assistant,Prepare and run laboratory tests,Part-time,Science,Colombo,sample,2026-10-07
