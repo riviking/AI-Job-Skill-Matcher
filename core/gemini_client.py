@@ -1,4 +1,4 @@
-"""Small wrapper around the Gemini API (google-genai SDK). Owner: Hijaz.
+"""Small wrapper around the Gemini API (google-genai SDK). Owner: Mathu.
 
 Get a free key: https://aistudio.google.com  ->  Get API key
 Put it in .streamlit/secrets.toml (GEMINI_API_KEY = "...") or as an environment variable.

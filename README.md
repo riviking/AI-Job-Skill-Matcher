@@ -30,9 +30,9 @@ CV / skills ──► Sinhala? ──► Translate (Gemini) ──► Extract sk
 | # | Member | Role | Branch | GitHub |
 |---|---|---|---|---|
 | 1 | Rivindu (Leader) | Data, cleaning, test set, Streamlit UI, PDF report, deployment, user testing | `feature/data-cleaning`, `feature/streamlit-ui` | @username |
-| 2 | Hijaz | Gemini client, Sinhala translation, Sinhala dictionary | `feature/translation` | @username |
+| 2 | Mathu | Gemini client, Sinhala translation, Sinhala dictionary | `feature/translation` | @username |
 | 3 | Yoosuf | Matching model, embeddings, evaluation | `feature/matching` | @username |
-| 5 | Mathu | CV input handler, skill extraction | `feature/skill-extraction` | @username |
+| 5 | Hijaz | CV input handler, skill extraction | `feature/skill-extraction` | @username |
 | 6 | Niroshan | Skill gap, course recommender, courses data, AI tip | `feature/gap-recommender` | @username |
 
 > Numbers match the tags used in the project wireframes. Ravindu (#4) left the group; his tasks were taken over by Rivindu.

@@ -1,4 +1,4 @@
-"""Extract skills from English text. Owner: Mathu.
+"""Extract skills from English text. Owner: Hijaz.
 
 Method 1 (always): keyword matching against skills.csv names + aliases.
 Method 2 (if Gemini key set): Gemini lists skills; we KEEP ONLY skills that exist
