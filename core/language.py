@@ -1,4 +1,4 @@
-"""Language detection and Sinhala -> English translation. Owner: Hijaz.
+"""Language detection and Sinhala -> English translation. Owner: Mathu.
 
 Steps: 1) replace known Sinhala skill words using our dictionary
        2) send the rest to Gemini for translation

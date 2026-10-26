@@ -30,9 +30,9 @@ CV / skills ──► Sinhala? ──► Translate (Gemini) ──► Extract sk
 | # | Member | Role | Branch | GitHub |
 |---|---|---|---|---|
 | 1 | Rivindu (Leader) | Data, cleaning, test set, Streamlit UI, PDF report, deployment, user testing | `feature/data-cleaning`, `feature/streamlit-ui` | @username |
-| 2 | Hijaz | Gemini client, Sinhala translation, Sinhala dictionary | `feature/translation` | @username |
+| 2 | Mathu | Gemini client, Sinhala translation, Sinhala dictionary | `feature/translation` | @username |
 | 3 | Yoosuf | Matching model, embeddings, evaluation | `feature/matching` | @username |
-| 5 | Mathu | CV input handler, skill extraction | `feature/skill-extraction` | @username |
+| 5 | Hijaz | CV input handler, skill extraction | `feature/skill-extraction` | @username |
 | 6 | Niroshan | Skill gap, course recommender, courses data, AI tip | `feature/gap-recommender` | @username |
 
 > Numbers match the tags used in the project wireframes. Ravindu (#4) left the group; his tasks were taken over by Rivindu.
@@ -42,10 +42,10 @@ CV / skills ──► Sinhala? ──► Translate (Gemini) ──► Extract sk
 | Area | Files | Owner |
 |---|---|---|
 | Data, cleaning, test set | `data/`, `core/preprocess.py`, `utils/`, `notebooks/01_data_cleaning.ipynb` | Rivindu |
-| Gemini + Sinhala translation | `core/gemini_client.py`, `core/language.py`, `data/processed/sinhala_dictionary.csv` | Hijaz |
+| Gemini + Sinhala translation | `core/gemini_client.py`, `core/language.py`, `data/processed/sinhala_dictionary.csv` | Mathu |
 | Matching + evaluation | `core/matcher.py`, `scripts/` | Yoosuf |
 | UI, PDF report, deployment | `app.py`, `core/report.py`, `.streamlit/` | Rivindu |
-| Input + skill extraction | `core/input_handler.py`, `core/skill_extractor.py` | Mathu |
+| Input + skill extraction | `core/input_handler.py`, `core/skill_extractor.py` | Hijaz |
 | Skill gap + courses + AI tip | `core/gap_analyzer.py`, `core/recommender.py`, `data/processed/courses.csv`, `data/processed/course_skills.csv` | Niroshan |
 
 ---

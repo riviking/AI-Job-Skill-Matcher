@@ -11,14 +11,14 @@ fix/*     <- bug fixes, created from dev
 | Branch | Owner |
 |---|---|
 | feature/data-cleaning | Rivindu |
-| feature/translation | Hijaz |
-| feature/skill-extraction | Mathu |
+| feature/translation | Mathu |
+| feature/skill-extraction | Hijaz |
 | feature/matching | Yoosuf |
 | feature/gap-recommender | Niroshan |
 | feature/streamlit-ui | Rivindu |
 
 ## PR reviewers
-Rivindu -> Hijaz -> Mathu -> Yoosuf -> Niroshan -> Rivindu
+Rivindu -> Mathu -> Hijaz -> Yoosuf -> Niroshan -> Rivindu
 (each person's PR is reviewed by the next person in this circle)
 
 ## Daily steps

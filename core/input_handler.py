@@ -1,4 +1,4 @@
-"""Read and validate uploaded CVs. Owner: Mathu."""
+"""Read and validate uploaded CVs. Owner: Hijaz."""
 import io
 from utils import config
 

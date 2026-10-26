@@ -1,4 +1,4 @@
-"""Evaluation helpers. Owners: Yoosuf (matching) + Mathu (skill F1) + Rivindu (test set).
+"""Evaluation helpers. Owners: Yoosuf (matching) + Hijaz (skill F1) + Rivindu (test set).
     python -m scripts.evaluate
 Test set format (data/processed/test_set.csv):
     cv_id, text, true_skills (semicolon list), relevant_jobs (semicolon job_ids)
