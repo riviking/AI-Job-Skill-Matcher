@@ -38,8 +38,12 @@ def job_embeddings(model_name: str) -> np.ndarray:
     return load_sentence_model(model_name).encode(list(all_job_texts()), normalize_embeddings=True)
 
 
+def parse_skills(skills: list[str]) -> str:
+    return "Skills: " + ", ".join(skills)
+
+
 def semantic_scores(skills: list[str], method: str) -> np.ndarray:
-    query = "Skills: " + ", ".join(skills)
+    query = parse_skills(skills)
     if method in ("mpnet", "minilm"):
         name = config.MATCH_MODEL if method == "mpnet" else config.FALLBACK_MATCH_MODEL
         try:
