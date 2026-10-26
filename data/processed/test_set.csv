@@ -1,3 +1,4 @@
 cv_id,text,true_skills,relevant_jobs
-CV001,"Final year IT student. Skilled in Python, scikit-learn and statistics. Good team player.",Python;Machine Learning;Statistics;Teamwork,J003;J001;J010
-CV002,"Management undergraduate with MS Excel, bookkeeping and time management skills.",Excel;Accounting;Time Management,J006;J005
+CV001,"AI internship candidate with Python, machine learning, research and communication skills.",Python;Machine Learning;Research;Communication,J0117
+CV002,"Management undergraduate with Excel, accounting and communication skills.",Excel;Accounting;Communication,J2332
+CV003,"Junior software engineering candidate with Java, SQL, Git and teamwork skills.",Java;SQL;Git;Teamwork,J2333
